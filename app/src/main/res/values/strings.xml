@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HP 1st APP</string>
+
+    <string name="hello_world">Hello world! Welcome to my app!</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+</resources>
+
